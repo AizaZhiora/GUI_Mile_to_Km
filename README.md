@@ -1,1 +1,5 @@
-# GUI_mile_to_km
+# GUI Miles to Kms
+
+## My firs time using Tkinter
+
+Coverter mile to kilometre
